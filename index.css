@@ -10,7 +10,8 @@ body {
 .container{
    border: 1px solid whitesmoke;
    padding: 20px;
-   margin: 30px;
+   margin: 40px auto;
+   widthL 500px;
 }
 h1 {
     color: goldenrod;
